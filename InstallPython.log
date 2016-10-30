@@ -1,0 +1,530 @@
+Script started on 2016年10月30日 05時24分56秒
+]0;vagrant@vagrant-centos65:/vagrant[?1034h[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ ll
+total 4
+-rw-r--r-- 1 vagrant vagrant    0 2016-10-30 05:24 InstallPython.log
+-rw-r--r-- 1 vagrant vagrant 1480 2016-10-30 04:51 Vagrantfile
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ date
+2016年 10月 30日 日曜日 05:25:04 UTC
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ pi
+pic              piconv           pinentry         ping             pinky            
+pic2graph        pidof            pinentry-curses  ping6            pivot_root       
+[vagrant@vagrant-centos65 vagrant]$ pi
+pic              piconv           pinentry         ping             pinky            
+pic2graph        pidof            pinentry-curses  ping6            pivot_root       
+[vagrant@vagrant-centos65 vagrant]$ pi
+pic              piconv           pinentry         ping             pinky            
+pic2graph        pidof            pinentry-curses  ping6            pivot_root       
+[vagrant@vagrant-centos65 vagrant]$ pi
+pic              piconv           pinentry         ping             pinky            
+pic2graph        pidof            pinentry-curses  ping6            pivot_root       
+[vagrant@vagrant-centos65 vagrant]$ pi[K[Kpython
+python     python2    python2.6  
+[vagrant@vagrant-centos65 vagrant]$ python
+python     python2    python2.6  
+[vagrant@vagrant-centos65 vagrant]$ python 0[K[K[K[vagrant@vagrant-centos65 vagrant]$ python 0V[K[K0[K_[K-V
+Python 2.6.6
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ git[K[K[Kgit clone https://github.com/yyuu/pyenv.git ~/.pyenv
+Initialized empty Git repository in /home/vagrant/.pyenv/.git/
+remote: Counting objects: 14075, done.[K
+Receiving objects:   0% (1/14075)   Receiving objects:   1% (141/14075)   Receiving objects:   2% (282/14075)   Receiving objects:   3% (423/14075)   Receiving objects:   4% (563/14075)   Receiving objects:   5% (704/14075)   Receiving objects:   6% (845/14075), 196.01 KiB | 337 KiB/s   Receiving objects:   7% (986/14075), 196.01 KiB | 337 KiB/s   Receiving objects:   8% (1126/14075), 196.01 KiB | 337 KiB/s   Receiving objects:   9% (1267/14075), 196.01 KiB | 337 KiB/s   Receiving objects:  10% (1408/14075), 196.01 KiB | 337 KiB/s   Receiving objects:  11% (1549/14075), 196.01 KiB | 337 KiB/s   Receiving objects:  12% (1689/14075), 196.01 KiB | 337 KiB/s   Receiving objects:  13% (1830/14075), 196.01 KiB | 337 KiB/s   Receiving objects:  14% (1971/14075), 196.01 KiB | 337 KiB/s   Receiving objects:  15% (2112/14075), 196.01 KiB | 337 KiB/s   Receiving objects:  16% (2252/14075), 196.01 KiB | 337 KiB/s   Receiving objects:  17% (2393/14075), 196.01 KiB | 337 KiB/s   Receiving objects:  18% (2534/14075), 196.01 KiB | 337 KiB/s   Receiving objects:  19% (2675/14075), 196.01 KiB | 337 KiB/s   Receiving objects:  20% (2815/14075), 196.01 KiB | 337 KiB/s   Receiving objects:  21% (2956/14075), 196.01 KiB | 337 KiB/s   Receiving objects:  21% (3039/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  22% (3097/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  23% (3238/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  24% (3378/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  25% (3519/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  26% (3660/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  27% (3801/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  28% (3941/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  29% (4082/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  30% (4223/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  31% (4364/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  32% (4504/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  33% (4645/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  34% (4786/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  35% (4927/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  36% (5067/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  37% (5208/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  38% (5349/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  39% (5490/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  40% (5630/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  41% (5771/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  42% (5912/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  43% (6053/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  44% (6193/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  45% (6334/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  46% (6475/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  47% (6616/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  48% (6756/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  49% (6897/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  50% (7038/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  51% (7179/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  52% (7319/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  53% (7460/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  54% (7601/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  55% (7742/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  56% (7882/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  57% (8023/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  58% (8164/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  59% (8305/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  60% (8445/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  61% (8586/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  62% (8727/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  63% (8868/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  64% (9008/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  65% (9149/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  66% (9290/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  67% (9431/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  68% (9571/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  69% (9712/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  70% (9853/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  71% (9994/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  72% (10134/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  73% (10275/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  74% (10416/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  75% (10557/14075), 772.01 KiB | 676 KiB/s   Receiving objects:  76% (10697/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  77% (10838/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  78% (10979/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  79% (11120/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  80% (11260/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  81% (11401/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  82% (11542/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  83% (11683/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  84% (11823/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  85% (11964/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  86% (12105/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  87% (12246/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  88% (12386/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  89% (12527/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  90% (12668/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  91% (12809/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  92% (12949/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  93% (13090/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  94% (13231/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  95% (13372/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  96% (13512/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  97% (13653/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  98% (13794/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects:  99% (13935/14075), 1.99 MiB | 1.13 MiB/s   remote: Total 14075 (delta 0), reused 0 (delta 0), pack-reused 14075[K
+Receiving objects: 100% (14075/14075), 1.99 MiB | 1.13 MiB/s   Receiving objects: 100% (14075/14075), 2.48 MiB | 1.13 MiB/s, done.
+Resolving deltas:   0% (0/9738)   Resolving deltas:   1% (98/9738)   Resolving deltas:   2% (195/9738)   Resolving deltas:   3% (297/9738)   Resolving deltas:   4% (396/9738)   Resolving deltas:   5% (495/9738)   Resolving deltas:   7% (744/9738)   Resolving deltas:   8% (783/9738)   Resolving deltas:   9% (890/9738)   Resolving deltas:  10% (981/9738)   Resolving deltas:  11% (1072/9738)   Resolving deltas:  12% (1171/9738)   Resolving deltas:  13% (1272/9738)   Resolving deltas:  14% (1382/9738)   Resolving deltas:  15% (1467/9738)   Resolving deltas:  16% (1572/9738)   Resolving deltas:  17% (1662/9738)   Resolving deltas:  20% (1989/9738)   Resolving deltas:  21% (2047/9738)   Resolving deltas:  22% (2148/9738)   Resolving deltas:  23% (2242/9738)   Resolving deltas:  24% (2349/9738)   Resolving deltas:  25% (2441/9738)   Resolving deltas:  29% (2903/9738)   Resolving deltas:  30% (2998/9738)   Resolving deltas:  31% (3087/9738)   Resolving deltas:  34% (3390/9738)   Resolving deltas:  35% (3411/9738)   Resolving deltas:  36% (3568/9738)   Resolving deltas:  37% (3653/9738)   Resolving deltas:  38% (3714/9738)   Resolving deltas:  39% (3799/9738)   Resolving deltas:  40% (3945/9738)   Resolving deltas:  41% (3993/9738)   Resolving deltas:  42% (4090/9738)   Resolving deltas:  44% (4320/9738)   Resolving deltas:  45% (4384/9738)   Resolving deltas:  46% (4508/9738)   Resolving deltas:  47% (4591/9738)   Resolving deltas:  48% (4676/9738)   Resolving deltas:  49% (4788/9738)   Resolving deltas:  50% (4891/9738)   Resolving deltas:  51% (4996/9738)   Resolving deltas:  52% (5075/9738)   Resolving deltas:  53% (5235/9738)   Resolving deltas:  54% (5264/9738)   Resolving deltas:  55% (5392/9738)   Resolving deltas:  56% (5497/9738)   Resolving deltas:  57% (5576/9738)   Resolving deltas:  58% (5703/9738)   Resolving deltas:  59% (5776/9738)   Resolving deltas:  60% (5890/9738)   Resolving deltas:  61% (5964/9738)   Resolving deltas:  62% (6044/9738)   Resolving deltas:  63% (6178/9738)   Resolving deltas:  64% (6240/9738)   Resolving deltas:  65% (6380/9738)   Resolving deltas:  67% (6534/9738)   Resolving deltas:  68% (6633/9738)   Resolving deltas:  71% (6971/9738)   Resolving deltas:  72% (7017/9738)   Resolving deltas:  73% (7109/9738)   Resolving deltas:  74% (7211/9738)   Resolving deltas:  75% (7309/9738)   Resolving deltas:  76% (7425/9738)   Resolving deltas:  77% (7541/9738)   Resolving deltas:  78% (7620/9738)   Resolving deltas:  79% (7719/9738)   Resolving deltas:  80% (7813/9738)   Resolving deltas:  81% (7891/9738)   Resolving deltas:  82% (7988/9738)   Resolving deltas:  83% (8089/9738)   Resolving deltas:  84% (8200/9738)   Resolving deltas:  85% (8279/9738)   Resolving deltas:  86% (8375/9738)   Resolving deltas:  87% (8490/9738)   Resolving deltas:  88% (8585/9738)   Resolving deltas:  89% (8667/9738)   Resolving deltas:  90% (8782/9738)   Resolving deltas:  91% (8865/9738)   Resolving deltas:  92% (8970/9738)   Resolving deltas:  93% (9067/9738)   Resolving deltas:  94% (9154/9738)   Resolving deltas:  95% (9256/9738)   Resolving deltas:  96% (9362/9738)   Resolving deltas:  97% (9478/9738)   Resolving deltas:  98% (9554/9738)   Resolving deltas:  99% (9642/9738)   Resolving deltas: 100% (9738/9738)   Resolving deltas: 100% (9738/9738), done.
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ [K[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ ll
+total 16
+-rw-r--r-- 1 vagrant vagrant 12288 2016-10-30 15:28 InstallPython.log
+-rw-r--r-- 1 vagrant vagrant  1480 2016-10-30 04:51 Vagrantfile
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ ls -rtl 
+total 16
+-rw-r--r-- 1 vagrant vagrant  1480 2016-10-30 04:51 Vagrantfile
+-rw-r--r-- 1 vagrant vagrant 12288 2016-10-30 15:28 InstallPython.log
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ ls-rtl [K[K[K[K[K[K[Kls[K[Kll ~~[K/
+total 0
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ ll ~/ -atl
+total 36
+drwxr-xr-x  10 vagrant vagrant 4096 2016-10-30 15:15 [0m[38;5;27m.pyenv[0m
+drwx------.  5 vagrant vagrant 4096 2016-10-30 15:15 [38;5;27m.[0m
+drwxrw----   3 vagrant vagrant 4096 2016-10-30 15:15 [38;5;27m.pki[0m
+-rw-------   1 vagrant vagrant  132 2016-10-30 05:08 .bash_history
+drwx------.  2 vagrant vagrant 4096 2016-10-30 04:52 [38;5;27m.ssh[0m
+drwxr-xr-x.  3 root    root    4096 2014-01-16 20:09 [38;5;27m..[0m
+-rw-r--r--.  1 vagrant vagrant   18 2013-07-18 13:19 .bash_logout
+-rw-r--r--.  1 vagrant vagrant  176 2013-07-18 13:19 .bash_profile
+-rw-r--r--.  1 vagrant vagrant  124 2013-07-18 13:19 .bashrc
+[m]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ ll ~/ -atl .pyenv
+ls: cannot access .pyenv: No such file or directory
+/home/vagrant/:
+total 36
+drwxr-xr-x  10 vagrant vagrant 4096 2016-10-30 15:15 [0m[38;5;27m.pyenv[0m
+drwx------.  5 vagrant vagrant 4096 2016-10-30 15:15 [38;5;27m.[0m
+drwxrw----   3 vagrant vagrant 4096 2016-10-30 15:15 [38;5;27m.pki[0m
+-rw-------   1 vagrant vagrant  132 2016-10-30 05:08 .bash_history
+drwx------.  2 vagrant vagrant 4096 2016-10-30 04:52 [38;5;27m.ssh[0m
+drwxr-xr-x.  3 root    root    4096 2014-01-16 20:09 [38;5;27m..[0m
+-rw-r--r--.  1 vagrant vagrant   18 2013-07-18 13:19 .bash_logout
+-rw-r--r--.  1 vagrant vagrant  176 2013-07-18 13:19 .bash_profile
+-rw-r--r--.  1 vagrant vagrant  124 2013-07-18 13:19 .bashrc
+[m]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ ll ~/ -atl .pyenv[K[K[K[K[K[K[K[K[K[K[K[K[K[K.pyenv~.pyenv/.pyenv
+total 84
+-rw-rw-r-- 1 vagrant vagrant 20237 2016-10-30 15:15 CHANGELOG.md
+-rw-rw-r-- 1 vagrant vagrant  7522 2016-10-30 15:15 COMMANDS.md
+-rw-rw-r-- 1 vagrant vagrant  3390 2016-10-30 15:15 CONDUCT.md
+-rw-rw-r-- 1 vagrant vagrant  1092 2016-10-30 15:15 LICENSE
+-rw-rw-r-- 1 vagrant vagrant   285 2016-10-30 15:15 Makefile
+-rw-rw-r-- 1 vagrant vagrant 14118 2016-10-30 15:15 README.md
+drwxrwxr-x 2 vagrant vagrant  4096 2016-10-30 15:15 [0m[38;5;27mbin[0m
+drwxrwxr-x 2 vagrant vagrant  4096 2016-10-30 15:15 [38;5;27mcompletions[0m
+drwxrwxr-x 2 vagrant vagrant  4096 2016-10-30 15:15 [38;5;27mlibexec[0m
+drwxrwxr-x 3 vagrant vagrant  4096 2016-10-30 15:15 [38;5;27mplugins[0m
+drwxrwxr-x 4 vagrant vagrant  4096 2016-10-30 15:15 [38;5;27mpyenv.d[0m
+drwxrwxr-x 2 vagrant vagrant  4096 2016-10-30 15:15 [38;5;27msrc[0m
+drwxrwxr-x 3 vagrant vagrant  4096 2016-10-30 15:15 [38;5;27mtest[0m
+[m]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ less /etc/inittab 
+[?1049h[?1h=# inittab is only used by upstart for the default runlevel.
+#
+# ADDING OTHER CONFIGURATION HERE WILL HAVE NO EFFECT ON YOUR SYSTEM.
+#
+# System initialization is started by /etc/init/rcS.conf
+#
+# Individual runlevels are started by /etc/init/rc.conf
+#
+# Ctrl-Alt-Delete is handled by /etc/init/control-alt-delete.conf
+#
+# Terminal gettys are handled by /etc/init/tty.conf and /etc/init/serial.conf,
+# with configuration in /etc/sysconfig/init.
+#
+# For information on how to write upstart event handlers, or how
+# upstart works, see init(5), init(8), and initctl(8).
+#
+# Default runlevel. The runlevels used are:
+#   0 - halt (Do NOT set initdefault to this)
+#   1 - Single user mode
+#   2 - Multiuser, without NFS (The same as 3, if you do not have networking)
+#   3 - Full multiuser mode
+#   4 - unused
+#   5 - X11
+#   6 - reboot (Do NOT set initdefault to this)
+# 
+id:3:initdefault:
+[7m/etc/inittab (END) [27m[K[K[K[7m(END) [27m[K[K[?1l>[?1049l]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ export PYENV_ROOT=$HOME/.pyenv
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ export PATH=$PYENV_ROOT/bin:$PATH
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ eval "$(pyenv init -)"
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ eval "$(pyenv init -)"xport PATH=$PYENV_ROOT/bin:$PATH[3PYENV_ROOT=$HOME/.pyenv[12Pless /etc/inittab [7Pl ~/.pyenv -atl .pyenv[K[K -atl .pyenv[6P.pyenvess /etc/inittab export PYENV_ROOT=$HOME/.pyenvATH=$PYENV_ROOT/bin:$PATH[11Pval "$(pyenv init -)"[Kless ~.[K./[K[K/.pyenv/
+[?1049h[?1h=total 120
+drwxr-xr-x  12 vagrant vagrant  4096 2016-10-30 15:18 ./
+drwx------.  5 vagrant vagrant  4096 2016-10-30 15:15 ../
+-rw-rw-r--   1 vagrant vagrant    19 2016-10-30 15:15 .agignore
+drwxrwxr-x   8 vagrant vagrant  4096 2016-10-30 15:15 .git/
+-rw-rw-r--   1 vagrant vagrant    89 2016-10-30 15:15 .gitignore
+-rw-rw-r--   1 vagrant vagrant   161 2016-10-30 15:15 .travis.yml
+-rw-rw-r--   1 vagrant vagrant    35 2016-10-30 15:15 .vimrc
+-rw-rw-r--   1 vagrant vagrant 20237 2016-10-30 15:15 CHANGELOG.md
+-rw-rw-r--   1 vagrant vagrant  7522 2016-10-30 15:15 COMMANDS.md
+-rw-rw-r--   1 vagrant vagrant  3390 2016-10-30 15:15 CONDUCT.md
+-rw-rw-r--   1 vagrant vagrant  1092 2016-10-30 15:15 LICENSE
+-rw-rw-r--   1 vagrant vagrant   285 2016-10-30 15:15 Makefile
+-rw-rw-r--   1 vagrant vagrant 14118 2016-10-30 15:15 README.md
+drwxrwxr-x   2 vagrant vagrant  4096 2016-10-30 15:15 bin/
+drwxrwxr-x   2 vagrant vagrant  4096 2016-10-30 15:15 completions/
+drwxrwxr-x   2 vagrant vagrant  4096 2016-10-30 15:15 libexec/
+drwxrwxr-x   3 vagrant vagrant  4096 2016-10-30 15:15 plugins/
+drwxrwxr-x   4 vagrant vagrant  4096 2016-10-30 15:15 pyenv.d/
+drwxrwxr-x   2 vagrant vagrant  4096 2016-10-30 15:18 shims/
+drwxrwxr-x   2 vagrant vagrant  4096 2016-10-30 15:15 src/
+drwxrwxr-x   3 vagrant vagrant  4096 2016-10-30 15:15 test/
+drwxrwxr-x   2 vagrant vagrant  4096 2016-10-30 15:18 versions/
+[7m/home/vagrant/.pyenv/ (END) [27m[K[K[?1l>[?1049l]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ echo PYEN[K[K[K[K$PYENV_ROOT 
+/home/vagrant/.pyenv
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ less /[K~/.bar[Ksh_-[Ko[Kprofile 
+[?1049h[?1h=# .bash_profile
+
+# Get the aliases and functions
+if [ -f ~/.bashrc ]; then
+        . ~/.bashrc
+fi
+
+# User specific environment and startup programs
+
+PATH=$PATH:$HOME/bin
+
+export PATH
+[7m/home/vagrant/.bash_profile (END) [27m[K[K[K[7m(END) [27m[K[K[?1l>[?1049l]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ less ~/.bash_profile [K[K[K[K[K[K[K[K[Krc 
+[?1049h[?1h=# .bashrc
+
+# Source global definitions
+if [ -f /etc/bashrc ]; then
+        . /etc/bashrc
+fi
+
+# User specific aliases and functions
+[7m/home/vagrant/.bashrc (END) [27m[K[K[?1l>[?1049l]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ less ~/.bashrc [6@_profile[C[4Pecho $PYENV_ROOT[C[4@less ~/.bash_profile[C
+[?1049h[?1h=# .bash_profile
+
+# Get the aliases and functions
+if [ -f ~/.bashrc ]; then
+        . ~/.bashrc
+fi
+
+# User specific environment and startup programs
+
+PATH=$PATH:$HOME/bin
+
+export PATH
+[7m/home/vagrant/.bash_profile (END) [27m[K[K[?1l>[?1049l]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ vim [17@less ~/.bash_profile[C[1P[1P[C[1P[1P[1@v[1@i[1@m
+bash: vim: command not found
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ vim ~/.bash_profile s [Kgit inst[K[K[K[K[K[K[K[Kyumm[K instal [K[K[K[K[K[K[K[K[K[K[Kyum install git[K[K[Kvim
+Loaded plugins: fastestmirror, versionlock
+You need to be root to perform this command.
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ yum install vim[1@s[1@u[1@d[1@o[1@ 
+Loaded plugins: fastestmirror, versionlock
+Setting up Install Process
+Loading mirror speeds from cached hostfile
+epel/metalink                                                                                              | 5.1 kB     00:00     
+ * base: ftp.iij.ad.jp
+ * epel: mirror01.idc.hinet.net
+ * extras: ftp.iij.ad.jp
+ * updates: ftp.iij.ad.jp
+base                                                                                                       | 3.7 kB     00:00     
+extras                                                                                                     | 3.4 kB     00:00     
+updates                                                                                                    | 3.4 kB     00:00     
+Resolving Dependencies
+--> Running transaction check
+---> Package vim-enhanced.x86_64 2:7.4.629-5.el6 will be installed
+--> Processing Dependency: vim-common = 2:7.4.629-5.el6 for package: 2:vim-enhanced-7.4.629-5.el6.x86_64
+--> Processing Dependency: libgpm.so.2()(64bit) for package: 2:vim-enhanced-7.4.629-5.el6.x86_64
+--> Running transaction check
+---> Package gpm-libs.x86_64 0:1.20.6-12.el6 will be installed
+---> Package vim-common.x86_64 2:7.4.629-5.el6 will be installed
+--> Processing Dependency: vim-filesystem for package: 2:vim-common-7.4.629-5.el6.x86_64
+--> Running transaction check
+---> Package vim-filesystem.x86_64 2:7.4.629-5.el6 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+==================================================================================================================================
+ Package                            Arch                       Version                             Repository                Size
+==================================================================================================================================
+Installing:
+ vim-enhanced                       x86_64                     2:7.4.629-5.el6                     base                     1.0 M
+Installing for dependencies:
+ gpm-libs                           x86_64                     1.20.6-12.el6                       base                      28 k
+ vim-common                         x86_64                     2:7.4.629-5.el6                     base                     6.7 M
+ vim-filesystem                     x86_64                     2:7.4.629-5.el6                     base                      15 k
+
+Transaction Summary
+==================================================================================================================================
+Install       4 Package(s)
+
+Total download size: 7.8 M
+Installed size: 23 M
+Is this ok [y/N]: y
+Downloading Packages:
+(1/4): gpm-libs-1.20.6-12.el6.x86_64.rpm                                                                   |  28 kB     00:00     
+(2/4): vim-common-7.4.629-5.el6.x86_64.rpm      (23%) 27% [==========                           ]  0.0 B/s | 1.8 MB     --:-- ETA (2/4): vim-common-7.4.629-5.el6.x86_64.rpm      (52%) 60% [======================               ] 3.7 MB/s | 4.1 MB     00:00 ETA (2/4): vim-common-7.4.629-5.el6.x86_64.rpm      (82%) 95% [===================================  ] 4.0 MB/s | 6.4 MB     00:00 ETA (2/4): vim-common-7.4.629-5.el6.x86_64.rpm                                                                 | 6.7 MB     00:00     
+(3/4): vim-enhanced-7.4.629-5.el6.x86_64.rpm                                                               | 1.0 MB     00:00     
+(4/4): vim-filesystem-7.4.629-5.el6.x86_64.rpm                                                             |  15 kB     00:00     
+----------------------------------------------------------------------------------------------------------------------------------
+Total                                                                                             6.1 MB/s | 7.8 MB     00:01     
+Running rpm_check_debug
+Running Transaction Test
+Transaction Test Succeeded
+Running Transaction
+  Installing : gpm-libs-1.20.6-12.el6.x86_64 [                                                                              ] 1/4  Installing : gpm-libs-1.20.6-12.el6.x86_64 [############################################################################# ] 1/4  Installing : gpm-libs-1.20.6-12.el6.x86_64                                                                                  1/4 
+  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [##                                                                    ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [####                                                                  ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [######                                                                ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [########                                                              ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [###########                                                           ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [#############                                                         ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [###############                                                       ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [##################                                                    ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [####################                                                  ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [######################                                                ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [#########################                                             ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [###########################                                           ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [#############################                                         ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [################################                                      ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [##################################                                    ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [####################################                                  ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [######################################                                ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [#########################################                             ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [###########################################                           ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [#############################################                         ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [###############################################                       ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [#################################################                     ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [###################################################                   ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [######################################################                ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [########################################################              ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [##########################################################            ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [############################################################          ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [###############################################################       ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [#################################################################     ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64 [###################################################################   ] 2/4  Installing : 2:vim-filesystem-7.4.629-5.el6.x86_64                                                                          2/4 
+  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [                                                                          ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#                                                                         ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [##                                                                        ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [###                                                                       ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [####                                                                      ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#####                                                                     ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [######                                                                    ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#######                                                                   ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [########                                                                  ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#########                                                                 ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [##########                                                                ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [###########                                                               ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [############                                                              ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#############                                                             ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [##############                                                            ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [###############                                                           ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [################                                                          ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#################                                                         ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [##################                                                        ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [###################                                                       ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [####################                                                      ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#####################                                                     ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [######################                                                    ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#######################                                                   ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [########################                                                  ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#########################                                                 ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [##########################                                                ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [###########################                                               ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [############################                                              ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#############################                                             ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [##############################                                            ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [###############################                                           ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [################################                                          ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#################################                                         ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [##################################                                        ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [###################################                                       ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [####################################                                      ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#####################################                                     ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [######################################                                    ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#######################################                                   ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [########################################                                  ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#########################################                                 ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [##########################################                                ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [###########################################                               ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [############################################                              ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#############################################                             ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [##############################################                            ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [###############################################                           ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [################################################                          ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#################################################                         ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [##################################################                        ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [###################################################                       ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [####################################################                      ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#####################################################                     ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [######################################################                    ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#######################################################                   ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [########################################################                  ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#########################################################                 ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [##########################################################                ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [###########################################################               ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [############################################################              ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#############################################################             ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [##############################################################            ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [###############################################################           ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [################################################################          ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#################################################################         ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [##################################################################        ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [###################################################################       ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [####################################################################      ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#####################################################################     ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [######################################################################    ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [#######################################################################   ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [########################################################################  ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64 [######################################################################### ] 3/4  Installing : 2:vim-common-7.4.629-5.el6.x86_64                                                                              3/4 
+  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [                                                                        ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [#                                                                       ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [###                                                                     ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [#####                                                                   ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [#######                                                                 ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [##########                                                              ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [############                                                            ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [##############                                                          ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [###############                                                         ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [##################                                                      ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [####################                                                    ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [######################                                                  ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [########################                                                ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [##########################                                              ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [############################                                            ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [##############################                                          ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [################################                                        ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [##################################                                      ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [####################################                                    ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [######################################                                  ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [#########################################                               ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [###########################################                             ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [#############################################                           ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [##############################################                          ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [################################################                        ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [###################################################                     ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [#####################################################                   ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [#######################################################                 ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [#########################################################               ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [###########################################################             ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [#############################################################           ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [###############################################################         ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [#################################################################       ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [###################################################################     ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [#####################################################################   ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64 [####################################################################### ] 4/4  Installing : 2:vim-enhanced-7.4.629-5.el6.x86_64                                                                            4/4 
+  Verifying  : 2:vim-filesystem-7.4.629-5.el6.x86_64                                                                          1/4 
+  Verifying  : 2:vim-common-7.4.629-5.el6.x86_64                                                                              2/4 
+  Verifying  : 2:vim-enhanced-7.4.629-5.el6.x86_64                                                                            3/4 
+  Verifying  : gpm-libs-1.20.6-12.el6.x86_64                                                                                  4/4 
+
+Installed:
+  vim-enhanced.x86_64 2:7.4.629-5.el6                                                                                             
+
+Dependency Installed:
+  gpm-libs.x86_64 0:1.20.6-12.el6         vim-common.x86_64 2:7.4.629-5.el6         vim-filesystem.x86_64 2:7.4.629-5.el6        
+
+Complete!
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ sudo yum install vim[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvim ~/.bash_profiles 
+[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H[1;61r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[61;1H"~/.bash_profiles" [New File][>c[2;1H[94m~                                                                                                                                 [3;1H~                                                                                                                                 [4;1H~                                                                                                                                 [5;1H~                                                                                                                                 [6;1H~                                                                                                                                 [7;1H~                                                                                                                                 [8;1H~                                                                                                                                 [9;1H~                                                                                                                                 [10;1H~                                                                                                                                 [11;1H~                                                                                                                                 [12;1H~                                                                                                                                 [13;1H~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [24;1H~                                                                                                                                 [25;1H~                                                                                                                                 [26;1H~                                                                                                                                 [27;1H~                                                                                                                                 [28;1H~                                                                                                                                 [29;1H~                                                                                                                                 [30;1H~                                                                                                                                 [31;1H~                                                                                                                                 [32;1H~                                                                                                                                 [33;1H~                                                                                                                                 [34;1H~                                                                                                                                 [35;1H~                                                                                                                                 [36;1H~                                                                                                                                 [37;1H~                                                                                                                                 [38;1H~                                                                                                                                 [39;1H~                                                                                                                                 [40;1H~                                                                                                                                 [41;1H~                                                                                                                                 [42;1H~                                                                                                                                 [43;1H~                                                                                                                                 [44;1H~                                                                                                                                 [45;1H~                                                                                                                                 [46;1H~                                                                                                                                 [47;1H~                                                                                                                                 [48;1H~                                                                                                                                 [49;1H~                                                                                                                                 [50;1H~                                                                                                                                 [51;1H~                                                                                                                                 [52;1H~                                                                                                                                 [53;1H~                                                                                                                                 [54;1H~                                                                                                                                 [55;1H~                                                                                                                                 [56;1H~                                                                                                                                 [57;1H~                                                                                                                                 [58;1H~                                                                                                                                 [59;1H~                                                                                                                                 [60;1H~                                                                                                                                 [m[61;113H0,0-1[9CAll[1;1H[?12l[?25h[?25l[61;1H[K[61;1H:[?12l[?25hq[?25l[?12l[?25h[?25l[61;1H[K[61;1H[?1l>[?12l[?25h[?1049l]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ vim ~/.bash_profiles [K[K
+[?1049h[?1h=[2;1H▽[6n[2;1H  [1;1H[1;61r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[61;1H"~/.bash_profile" 12L, 176C[>c[1;1H[34m# .bash_profile
+
+# Get the aliases and functions[m
+[38;5;130mif [[m [38;5;130m-f[m ~/.bashrc [38;5;130m][m; [38;5;130mthen
+        . [m~/.bashrc
+[38;5;130mfi[m
+
+[34m# User specific environment and startup programs[m
+
+[36mPATH[m=[35m$PATH[m:[35m$HOME[m/bin
+
+[38;5;130mexport[m[36m PATH[m
+[94m~                                                                                                                                 [14;1H~                                                                                                                                 [15;1H~                                                                                                                                 [16;1H~                                                                                                                                 [17;1H~                                                                                                                                 [18;1H~                                                                                                                                 [19;1H~                                                                                                                                 [20;1H~                                                                                                                                 [21;1H~                                                                                                                                 [22;1H~                                                                                                                                 [23;1H~                                                                                                                                 [24;1H~                                                                                                                                 [25;1H~                                                                                                                                 [26;1H~                                                                                                                                 [27;1H~                                                                                                                                 [28;1H~                                                                                                                                 [29;1H~                                                                                                                                 [30;1H~                                                                                                                                 [31;1H~                                                                                                                                 [32;1H~                                                                                                                                 [33;1H~                                                                                                                                 [34;1H~                                                                                                                                 [35;1H~                                                                                                                                 [36;1H~                                                                                                                                 [37;1H~                                                                                                                                 [38;1H~                                                                                                                                 [39;1H~                                                                                                                                 [40;1H~                                                                                                                                 [41;1H~                                                                                                                                 [42;1H~                                                                                                                                 [43;1H~                                                                                                                                 [44;1H~                                                                                                                                 [45;1H~                                                                                                                                 [46;1H~                                                                                                                                 [47;1H~                                                                                                                                 [48;1H~                                                                                                                                 [49;1H~                                                                                                                                 [50;1H~                                                                                                                                 [51;1H~                                                                                                                                 [52;1H~                                                                                                                                 [53;1H~                                                                                                                                 [54;1H~                                                                                                                                 [55;1H~                                                                                                                                 [56;1H~                                                                                                                                 [57;1H~                                                                                                                                 [58;1H~                                                                                                                                 [59;1H~                                                                                                                                 [60;1H~                                                                                                                                 [m[61;113H1,1[11CAll[1;1H[?12l[?25h[?25l[61;113H2,0-1[2;1H[?12l[?25h[?25l[61;113H3,1  [3;1H[?12l[?25h[?25l[61;113H4[4;1H[?12l[?25h[?25l[61;113H5,1-8[5;8H[?12l[?25h[?25l[61;113H6,1  [6;1H[?12l[?25h[?25l[61;113H7,0-1[7;1H[?12l[?25h[?25l[61;113H8,1  [8;1H[?12l[?25h[?25l[61;113H9,0-1[9;1H[?12l[?25h[?25l[61;113H10,1 [10;1H[?12l[?25h[?25l[61;114H1,0-1[11;1H[?12l[?25h[?25l[61;114H2,1  [12;1H[?12l[?25h[?25l[61;116H2[12;2H[?12l[?25h[?25l[61;114H1,0-1[11;1H[?12l[?25h[?25l[61;1H[1m-- INSERT --[m[61;13H[K[61;113H11,1[10CAll[11;1H[?12l[?25h[?25l[12;60r[12;1H[L[1;61r[61;113H[K[61;113H12,1[10CAll[12;1H[?12l[?25h[?25l[13;60r[13;1H[L[1;61r[61;113H[K[61;113H13,1[10CAll[13;1H[?12l[?25h[?25l[61;114H2[12;1H[?12l[?25h[?25l[61;114H1[11;1H[?12l[?25h[?25l[12;60r[12;1H[2L[1;61r[11;1H[38;5;130mexport[m[36m PYENV_ROOT=[m[35m$HOME[m/.pyenv
+[38;5;130mexport[m[36m PATH=[m[35m$PYENV_ROOT[m/bin:[35m$PATH[m
+[38;5;130meval[m [38;5;130m"[m[35m$(pyenv init -)[m[38;5;130m"[m[61;113H[K[61;113H13,23[9CAll[13;23H[?12l[?25h[61;1H[K[13;22H[?25l[61;113H13,22[9CAll[13;22H[?12l[?25h[?25l[61;114H2[12;22H[?12l[?25h[?25l[61;114H1[11;22H[?12l[?25h[?25l[61;114H0,20[10;20H[?12l[?25h[?25l[61;1H[1m-- INSERT --[m[61;113H[K[61;113H10,20[9CAll[10;20H[?12l[?25h[?25l[61;117H1[10;21H[?12l[?25h[?25l[11;60r[11;1H[L[1;61r[61;113H[K[61;113H11,1[10CAll[11;1H[?12l[?25h[61;1H[K[11;1H[?25l[61;113H11,0-1[8CAll[11;1H[?12l[?25h[?25l[61;114H2,1  [12;1H[?12l[?25h[?25l[61;114H3[13;1H[?12l[?25h[?25l[61;114H4[14;1H[?12l[?25h[?25l[61;114H5,0-1[15;1H[?12l[?25h[?25l[61;114H6[16;1H[?12l[?25h[?25l[61;114H5[15;1H[?12l[?25h[?25l[15;60r[60;1H
+[1;61r[60;1H[94m~                                                                                                                                 [m[61;113H[K[61;113H15,0-1[8CAll[15;1H[?12l[?25h[?25l[61;113H[K[61;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l"~/.bash_profile" 16L, 265C written
+[?1l>[?12l[?25h[?1049l]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ svim ~/.bash_profile[1P[1P[1P ~/.bash_profiles ~/.bash_profileo ~/.bash_profileu ~/.bash_profiler ~/.bash_profilece ~/.bash_profile
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ pyenv install list
+python-build: definition not found: list
+
+See all available versions with `pyenv install --list'.
+
+If the version you need is missing, try upgrading pyenv:
+
+  cd /home/vagrant/.pyenv/plugins/python-build/../.. && git pull && cd -
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ 
+]0;vagrant@vagrant-centos65:/vagrant[vagrant@vagrant-centos65 vagrant]$ pyenv install list-list-list
+Available versions:
+  2.1.3
+  2.2.3
+  2.3.7
+  2.4
+  2.4.1
+  2.4.2
+  2.4.3
+  2.4.4
+  2.4.5
+  2.4.6
+  2.5
+  2.5.1
+  2.5.2
+  2.5.3
+  2.5.4
+  2.5.5
+  2.5.6
+  2.6.6
+  2.6.7
+  2.6.8
+  2.6.9
+  2.7-dev
+  2.7
+  2.7.1
+  2.7.2
+  2.7.3
+  2.7.4
+  2.7.5
+  2.7.6
+  2.7.7
+  2.7.8
+  2.7.9
+  2.7.10
+  2.7.11
+  2.7.12
+  3.0.1
+  3.1
+  3.1.1
+  3.1.2
+  3.1.3
+  3.1.4
+  3.1.5
+  3.2-dev
+  3.2
+  3.2.1
+  3.2.2
+  3.2.3
+  3.2.4
+  3.2.5
+  3.2.6
+  3.3.0
+  3.3-dev
+  3.3.1
+  3.3.2
+  3.3.3
+  3.3.4
+  3.3.5
+  3.3.6
+  3.4.0
+  3.4-dev
+  3.4.1
+  3.4.2
+  3.4.3
+  3.4.4
+  3.4.5
+  3.5.0
+  3.5-dev
+  3.5.1
+  3.5.2
+  3.6.0b2
+  3.6-dev
+  3.7-dev
+  anaconda-1.4.0
+  anaconda-1.5.0
+  anaconda-1.5.1
+  anaconda-1.6.0
+  anaconda-1.6.1
+  anaconda-1.7.0
+  anaconda-1.8.0
+  anaconda-1.9.0
+  anaconda-1.9.1
+  anaconda-1.9.2
+  anaconda-2.0.0
+  anaconda-2.0.1
+  anaconda-2.1.0
+  anaconda-2.2.0
+  anaconda-2.3.0
+  anaconda-2.4.0
+  anaconda-4.0.0
+  anaconda2-2.4.0
+  anaconda2-2.4.1
+  anaconda2-2.5.0
+  anaconda2-4.0.0
+  anaconda2-4.1.0
+  anaconda2-4.1.1
+  anaconda3-2.0.0
+  anaconda3-2.0.1
+  anaconda3-2.1.0
+  anaconda3-2.2.0
+  anaconda3-2.3.0
+  anaconda3-2.4.0
+  anaconda3-2.4.1
+  anaconda3-2.5.0
+  anaconda3-4.0.0
+  anaconda3-4.1.0
+  anaconda3-4.1.1
+  ironpython-dev
+  ironpython-2.7.4
+  ironpython-2.7.5
+  ironpython-2.7.6.3
+  jython-dev
+  jython-2.5.0
+  jython-2.5-dev
+  jython-2.5.1
+  jython-2.5.2
+  jython-2.5.3
+  jython-2.5.4-rc1
+  jython-2.7.0
+  jython-2.7.1b1
+  jython-2.7.1b2
+  jython-2.7.1b3
+  miniconda-latest
+  miniconda-2.2.2
+  miniconda-3.0.0
+  miniconda-3.0.4
+  miniconda-3.0.5
+  miniconda-3.3.0
+  miniconda-3.4.2
+  miniconda-3.7.0
+  miniconda-3.8.3
+  miniconda-3.9.1
+  miniconda-3.10.1
+  miniconda-3.16.0
+  miniconda-3.18.3
+  miniconda2-latest
+  miniconda2-3.18.3
+  miniconda2-3.19.0
+  miniconda2-4.0.5
+  miniconda2-4.1.11
+  miniconda3-latest
+  miniconda3-2.2.2
+  miniconda3-3.0.0
+  miniconda3-3.0.4
+  miniconda3-3.0.5
+  miniconda3-3.3.0
+  miniconda3-3.4.2
+  miniconda3-3.7.0
+  miniconda3-3.8.3
+  miniconda3-3.9.1
+  miniconda3-3.10.1
+  miniconda3-3.16.0
+  miniconda3-3.18.3
+  miniconda3-3.19.0
+  miniconda3-4.0.5
+  miniconda3-4.1

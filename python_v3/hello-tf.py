@@ -6,8 +6,9 @@ config = tf.ConfigProto(
     inter_op_parallelism_threads=core_num,
     intra_op_parallelism_threads=core_num )
 sess = tf.Session(config=config)
- 
-hello = tf.constant('hello, tensorflow!')
+
+
+hello = tf.constant("hellow world")
 print(sess.run(hello))
  
 a = tf.constant(10)

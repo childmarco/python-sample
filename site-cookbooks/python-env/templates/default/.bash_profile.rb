@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: ruby-env
+# Cookbook Name:: python-env
 # Recipe:: default
 #
 # Copyright 2016, YOUR_COMPANY_NAME
@@ -18,8 +18,3 @@ PATH=$PATH:$HOME/bin
 export PYENV_ROOT=$HOME/.pyenv
 export PATH=$PYENV_ROOT/bin:$PATH
 eval "$(pyenv init -)"
-
-# export PATH="$HOME/.rbenv/bin:$PATH"
-# export PATH="$HOME/.rbenv/versions/#{@versions}/$HOME/.rbenv/bin:$PATH"
-# export PATH=$HOME/.rbenv/versions/<%= @version %>/bin:$HOME/.rbenv/bin:$PATH
-# eval "$(rbenv init -)"
